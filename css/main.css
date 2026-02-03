@@ -52,7 +52,7 @@ div {
 .chelsea-market-regular {
   font-family: "Chelsea Market", system-ui;
   font-weight: 400;
-  font-size: 46px;
+  font-size: 64px;
   font-style: normal;
 }
 
@@ -65,6 +65,7 @@ div {
 .header {
     border: 1px solid #D8A25E;
     margin: 12px;
+    padding: 20px;
 }
 
 .paragraph {

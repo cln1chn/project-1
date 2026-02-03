@@ -16,6 +16,7 @@ a {
 
 h1 {
     color: #A04747;
+    font-size: x-large;
 }
 
 h2 {
@@ -50,7 +51,6 @@ div {
 .chelsea-market-regular {
   font-family: "Chelsea Market", system-ui;
   font-weight: 400;
-  font-size: x-large;
   font-style: normal;
 }
 

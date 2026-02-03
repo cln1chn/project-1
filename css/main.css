@@ -69,18 +69,6 @@ div {
     text-align: justify;
 }
 
-.portrait {
-    border: 12px;
-    border-radius: 50%;
-    width: 200px;
-    padding: 40px;
-}
-
-.emphasis {
-    color: rgb(196, 253, 110);
-    font-weight: 700;
-}
-
 .list {
     color: rgb(196, 253, 110);
 }
@@ -88,19 +76,6 @@ div {
 .Selector {
     color: #a8bbbb;
     font-size: larger;
-}
-
-.LSU {
-    background-color: rgb(43, 66, 75);
-    text-align: center;
-    padding: 10px;
-    max-width: 200px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 20px auto;
-    border: 4px solid #5b8588;
-    border-radius: 80px;
 }
 
 a:visited {

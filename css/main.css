@@ -26,8 +26,9 @@ h2 {
 
 h3 {
     color: #D8A25E;
-    font-size: smaller;
+    font-size: small;
     font-style: italic;
+    text-align: left;
 }
 
 img {
@@ -70,8 +71,8 @@ div {
 }
 
 .paragraph {
-    color: rgb(149, 173, 163);
-    text-align: justify;
+    color: #A04747;
+    text-align: left;
 }
 
 .list {

@@ -64,6 +64,7 @@ div {
 
 .header {
     border: 2px solid #D8A25E;
+    border-radius: 20px;
     margin: 10px;
     padding: 10px;
     text-align: left;
@@ -72,6 +73,7 @@ div {
 .paragraph {
     color: #A04747;
     text-align: left;
+    line-height: 1.5;
 }
 
 .list {

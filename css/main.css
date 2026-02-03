@@ -1,0 +1,113 @@
+/* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #92a8a8;
+    color: #a8bbbb;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+a {
+    color: #516b77;
+}
+
+h1 {
+    color: rgb(202, 224, 215);
+}
+
+h2 {
+    color: rgb(169, 191, 182);
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(149, 173, 163);
+    font-size: smaller;
+}
+
+img {
+    width: 250px;
+    margin-right: 16px;
+    margin: auto;
+}
+
+div {
+    background-color: rgb(83, 111, 122);
+    text-align: center;
+    padding: 40px;
+    max-width: 900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 40px auto;
+    border: 8px solid #425b5d;
+    border-radius: 20px;
+}
+
+.chelsea-market-regular {
+  font-family: "Chelsea Market", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maintext {
+    font-size: larger;
+    color: cornsilk;
+    text-align: center;
+}
+
+.header {
+    border: 1px solid rgb(202, 224, 215);
+    margin: 10px;
+}
+
+.paragraph {
+    color: rgb(149, 173, 163);
+    text-align: justify;
+}
+
+.portrait {
+    border: 12px;
+    border-radius: 50%;
+    width: 200px;
+    padding: 40px;
+}
+
+.emphasis {
+    color: rgb(196, 253, 110);
+    font-weight: 700;
+}
+
+.list {
+    color: rgb(196, 253, 110);
+}
+
+.Selector {
+    color: #a8bbbb;
+    font-size: larger;
+}
+
+.LSU {
+    background-color: rgb(43, 66, 75);
+    text-align: center;
+    padding: 10px;
+    max-width: 200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px auto;
+    border: 4px solid #5b8588;
+    border-radius: 80px;
+}
+
+a:visited {
+    color: rgb(208, 117, 208);
+}
+
+ul, ol {
+  margin: auto;
+  padding: auto;
+}

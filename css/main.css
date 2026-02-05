@@ -36,7 +36,20 @@ img {
     margin: auto;
 }
 
-div {
+.topheader {
+    background-color: #A04747;
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 20px auto;
+    border: 12px solid #D8A25E;
+    border-radius: 0px;
+}
+
+.mainbody {
     background-color: #EEDF7A;
     text-align: center;
     padding: 50px;
@@ -52,7 +65,7 @@ div {
 .chelsea-market-regular {
   font-family: "Chelsea Market", system-ui;
   font-weight: 400;
-  font-size: 64px;
+  font-size: 72px;
   font-style: normal;
 }
 

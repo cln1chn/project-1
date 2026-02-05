@@ -16,7 +16,7 @@ a {
 
 h1 {
     color: #A04747;
-    font-size: larger;
+    font-size: 72px;
 }
 
 h2 {
@@ -44,7 +44,7 @@ h3 {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
-    margin: 10px;
+    margin: 10px auto;
     border: 28px solid #EEDF7A;
     border-radius: 80px;
 }
@@ -70,12 +70,6 @@ h3 {
   color: #EEDF7A;
 }
 
-.maintext {
-    font-size: larger;
-    color: cornsilk;
-    text-align: center;
-}
-
 .label {
     border: 2px solid #9a764e;
     border-radius: 25px;
@@ -89,15 +83,7 @@ h3 {
     color: #A04747;
     text-align: left;
     line-height: 1.5;
-}
-
-.list {
-    color: rgb(196, 253, 110);
-}
-
-.Selector {
-    color: #a8bbbb;
-    font-size: larger;
+    text-indent: 18px;
 }
 
 a:visited {
